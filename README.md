@@ -2,7 +2,7 @@
 
 ## Estudiante: Cristian
 
-##Descripción:
+## Descripción:
 
 Foto de mi persona:
 
